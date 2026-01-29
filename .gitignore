@@ -75,3 +75,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /Test_BackUpThisFolder_ButDontShipItWithYourGame
 /.idea
+/OpenMyGame-match-3_BurstDebugInformation_DoNotShip
